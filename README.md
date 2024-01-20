@@ -1,6 +1,7 @@
 # Hello! I'm Nev-P!!👩🏿‍💻👋🏿
-🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
+**`Python Lover and Ethical Hacker)`** 
 
+🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
 - I'm a Python Lover and Ethical Hacker. 
 - 🔭 I’m currently working on mastering Python 👩🏿‍💻
 - 🌱 I’m currently learning every new way to code in different languages 😊
