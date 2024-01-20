@@ -27,7 +27,8 @@
 <!--START_SECTION:activity-->
 - Tic Tac Toc  
 - Rock Paper Scissors
-- Hangman 
+- Hangman
+- Harry Potter RPG 
 - Caesar Cipher
 - Are you an Introvert or Extrovert? (Survey)
 <!--END_SECTION:activity-->
