@@ -2,9 +2,10 @@
 **`Python Lover and Ethical Hacker)`** 
 
 🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
+Hello, I'm Nevaeh McGee-Cassius. I have a Bachelor of Science in Criminal Justice and a minor in Cybersecurity from Adelphi University. As well as a completed Cybersecurity six-month boot camp certificate. Ever since I was in high school, I have always wanted to work in the tech field. I love to code because I feel it helps people in their daily lives. Such as creating games using Python for entertainment and creating beautiful websites with HTML and CSS for businesses. While pursuing my degree, I have found that coding can protect people from cyberattacks. With my python, Linux, and other cybersecuirty tools, I want one day to create more tools to prevent cybercrime. 
 - 🔭 I’m currently working on mastering Python 👩🏿‍💻
 - 🌱 I’m currently learning new coding languages 😊
-- ⚡ Fun fact: I love to play video games!! 📚🎮
+- ⚡ Fun fact: I love to play video games 📚🎮
 
 🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
 
