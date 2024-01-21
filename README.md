@@ -24,7 +24,7 @@ Hello, I'm Nevaeh McGee-Cassius. I have a Bachelor of Science in Criminal Justic
 ---
 # Projects
 <details>
-  <summary>Python📂 (Found in GitHub Portfolio)</summary>
+  <summary>Python-Projects📂</summary>
 
 <!--START_SECTION:activity-->
 - Tic Tac Toc  
