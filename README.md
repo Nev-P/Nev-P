@@ -37,7 +37,7 @@ Hello, I'm Nevaeh McGee-Cassius. I have a Bachelor of Science in Criminal Justic
 </details>
 
 <details>
-  <summary>Cybersecurity📂</summary>
+  <summary>Cybersecurity📂-Projects</summary>
 
 <!--START_SECTION:activity-->
 - Cybersecurity Capstone Presentation: Discovering Security Vulnerabilities in IT Services
