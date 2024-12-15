@@ -49,6 +49,6 @@ Hello, I'm Nevaeh McGee-Cassius. I have a Bachelor of Science in Criminal Justic
 # Connect with me 📞
 <p>
   <a href="https://www.linkedin.com/in/nevaeh-mcgee-cassius-257252146/?trk=nav_responsive_tab_profile_pic" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> 
   </a> &nbsp; 
 </p>
