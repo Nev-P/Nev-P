@@ -1,12 +1,14 @@
 # Hello! I'm Nev-P!!👩🏿‍💻👋🏿
-**`Python Lover and Ethical Hacker)`** 
+**`Python Lover and Ethical Hacker`** 
 
 🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
 
-Hello, I'm Nevaeh McGee-Cassius. I have a Bachelor of Science in Criminal Justice and a minor in Cybersecurity from Adelphi University. As well as a completed Cybersecurity six-month boot camp certificate. I love to code because I feel I can help people in their daily lives. Such as creating games using Python for entertainment and creating beautiful websites with HTML and CSS for businesses. While pursuing my degree, I have found that coding can protect people from cyberattacks. With my Python, Linux, and other Cybersecurity tools, I want one day to create more tools to prevent cybercrime. 
+Hello, I'm Nev-P. I am a lifelong learner who loves to put my all into something I find challenging. While pursuing my coding journey, with ups and downs, I have found coding to be fun. Because of this, I do not believe I will stop anytime soon. I do not have an end goal in mind of what I would like to create. However, I do know, with the knowledge I have with Python and Cybersecurity, I would like to create a program to help against cybercrime. 
+
 - 🔭 I’m currently working on mastering Python & Linux 👩🏿‍💻
 - 🌱 I’m currently learning new coding languages 😊
 - ⚡ Fun fact: I love to play video games 📚🎮
+- 👍 Man, do I love Cryptography. 
 
 🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
 
