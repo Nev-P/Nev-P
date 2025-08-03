@@ -51,6 +51,6 @@ Hello, I'm Nev-P. I am a lifelong learner who loves to put my all into something
 # Connect with me 📞
 <p>
   <a href="https://www.linkedin.com/in/nevaeh-mcgee-cassius-257252146/?trk=nav_responsive_tab_profile_pic" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin" style="padding-right:30px> 
+    <img src="https://i.stack.imgur.com/gVE0j.png" style="padding-right:30px alt="linkedin"> 
   </a> &nbsp; 
 </p>
